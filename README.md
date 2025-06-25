@@ -8,7 +8,7 @@ For the go solutions, make sure that you have Go installed (mine is version 1.24
 
 Then, hop into your terminal of choice and run the following:
 ```bash
-go run main.go
+go run .
 ```
 
 You can then enter the number of the day you want to run, and it will execute the solution for that day.
